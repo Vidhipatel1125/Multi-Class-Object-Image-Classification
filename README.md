@@ -11,13 +11,13 @@
 | `Notebook/` | `7615_Project_1_Notebook.ipynb` — full pipeline: data validation, train/val/test split, model training, evaluation |
 | `Models/` | Trained `.keras` model checkpoints (multiple architectures/hyperparameter variants tested) |
 | `Images/` | `confusion_cnn_4blocks_v2.png` (test-set confusion matrix) and `unseen_cnn_4blocks_v2.png` (predictions on unseen environment images) |
-| `Results/` | `results_v2.csv` (metrics per model), `eval_v2.csv` (final test evaluation), `per_class_cnn_4blocks_v2.csv` (per-class precision/recall/F1), `class_names_v2.json` (class label list), `registry_v2.csv` (object ID → name mapping), `splits_v2.csv` (train/val/test split) |
+| `Results/` | `results_v2.csv` (metrics per model), `eval_v2.csv` (final test evaluation), `per_class_cnn_4blocks_v2.csv` (per class precision/recall/F1), `class_names_v2.json` (class label list), `registry_v2.csv` (object ID to name mapping), `splits_v2.csv` (train/val/test split) |
 
 ---
 
 ## Quick Summary of Results
 
-See `Results/results_v2.csv` for accuracy/loss across all model variants, and `Results/per_class_cnn_4blocks_v2.csv` for the per-class breakdown of the best model (`cnn_4blocks`). The confusion matrix and unseen-environment predictions in `Images/` give a visual sense of where the model struggles.
+See `Results/results_v2.csv` for accuracy/loss across all model variants, and `Results/per_class_cnn_4blocks_v2.csv` for the per class breakdown of the best model (`cnn_4blocks`). The confusion matrix and unseen-environment predictions in `Images/` give a visual sense of where the model struggles.
 
 ---
 
