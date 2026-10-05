@@ -1,0 +1,75 @@
+,precision,recall,f1-score,support
+Basketball (OBJ001),0.93,0.93,0.93,15.0
+water bottle (OBJ002),1.0,0.8,0.89,15.0
+NoteBook (OBJ003),0.67,0.67,0.67,15.0
+Toy Car (OBJ004),0.17,0.13,0.15,15.0
+Computer mouse (OBJ005),0.82,0.6,0.69,15.0
+Capybara Toy (OBJ006),0.68,1.0,0.81,15.0
+Apple (OBJ007),0.67,0.67,0.67,15.0
+Cat (OBJ008),0.64,0.93,0.76,15.0
+Marshall Speaker (OBJ009),0.62,0.53,0.57,15.0
+Nike sneakers (OBJ010),0.94,1.0,0.97,15.0
+mug (OBJ011),0.92,0.73,0.81,15.0
+Computer Keyboard (OBJ012),0.32,0.47,0.38,15.0
+Mobile phone (OBJ013),0.15,0.33,0.2,15.0
+Sunglasses (OBJ014),0.58,0.47,0.52,15.0
+Water Tumbler (OBJ015),1.0,0.27,0.42,15.0
+Sandisk Portable SSD (OBJ016),0.78,0.47,0.58,15.0
+Controller (OBJ017),0.33,0.13,0.19,15.0
+Rubiks cube (OBJ018),0.94,1.0,0.97,15.0
+Plant (OBJ019),0.79,1.0,0.88,15.0
+Airpod (OBJ020),0.53,0.53,0.53,15.0
+Toy Bunny (OBJ021),0.86,0.8,0.83,15.0
+Guitar (OBJ022),1.0,0.8,0.89,15.0
+Bracelet (OBJ023),0.67,0.4,0.5,15.0
+Plush doll (OBJ024),0.5,0.87,0.63,15.0
+Watch (OBJ025),0.53,0.6,0.56,15.0
+Red Sox Cap (OBJ026),0.88,0.93,0.9,15.0
+Tennis ball (OBJ027),1.0,0.47,0.64,15.0
+banana (OBJ028),0.83,1.0,0.91,15.0
+Orange (OBJ029),0.94,1.0,0.97,15.0
+Tennis racket (OBJ030),1.0,0.73,0.85,15.0
+UNO card box (OBJ031),0.76,0.87,0.81,15.0
+Sound Card (OBJ032),0.83,1.0,0.91,15.0
+Duck (OBJ033),0.88,0.93,0.9,15.0
+Table Tennis Racket (OBJ034),0.33,0.13,0.19,15.0
+Badminton racket (OBJ035),1.0,0.73,0.85,15.0
+Pencil case (OBJ036),0.6,0.4,0.48,15.0
+Candle (OBJ037),1.0,0.47,0.64,15.0
+Perfume bottle (OBJ038),0.18,0.13,0.15,15.0
+Scissors (OBJ039),0.55,0.73,0.63,15.0
+Clutcher (OBJ040),0.88,1.0,0.94,15.0
+Table fan (OBJ041),0.88,1.0,0.94,15.0
+Mouth guard case (OBJ042),0.76,0.87,0.81,15.0
+Swimming Goggels (OBJ043),1.0,0.33,0.5,15.0
+Anime Figurine (OBJ044),0.5,0.73,0.59,15.0
+Wayfarer Sunglasses (OBJ045),0.18,0.33,0.23,15.0
+iWatch (OBJ046),0.6,0.6,0.6,15.0
+Backpack (OBJ047),0.58,1.0,0.73,15.0
+Wireless powerbank (OBJ048),0.27,0.27,0.27,15.0
+Pickleball bat (OBJ049),0.5,0.73,0.59,15.0
+Hairbrush (OBJ050),0.48,0.87,0.62,15.0
+tissue (OBJ051),0.82,0.6,0.69,15.0
+Spoon (OBJ052),0.44,0.27,0.33,15.0
+Moisturizer (OBJ053),1.0,0.87,0.93,15.0
+Purse (OBJ054),0.57,0.53,0.55,15.0
+Scientific Calculator (OBJ055),0.75,1.0,0.86,15.0
+Trader Joe's Bag (OBJ056),0.47,1.0,0.64,15.0
+Power Bank (OBJ057),0.4,0.27,0.32,15.0
+Footstool (OBJ058),0.43,0.8,0.56,15.0
+Comb (OBJ059),0.39,0.47,0.42,15.0
+Sleep Mask (OBJ060),0.93,0.87,0.9,15.0
+Card wallet (OBJ061),0.14,0.07,0.09,15.0
+Headphones (OBJ062),0.39,0.47,0.42,15.0
+Measuring Bottle (OBJ063),0.69,0.73,0.71,15.0
+RGB Projector (OBJ064),0.58,0.93,0.72,15.0
+Analog watch (OBJ065),0.41,0.47,0.44,15.0
+hair oil (OBJ066),1.0,0.93,0.97,15.0
+Men's Wallet (OBJ067),0.7,0.93,0.8,15.0
+Neck Pillow (OBJ068),0.91,0.67,0.77,15.0
+knife (OBJ069),0.87,0.87,0.87,15.0
+Astronaut projector (OBJ070),1.0,0.73,0.85,15.0
+Sloth Plushie (OBJ071),0.78,0.93,0.85,15.0
+Dog (OBJ072),0.61,0.73,0.67,15.0
+Bowl (OBJ073),0.88,0.93,0.9,15.0
+No object,0.25,0.02,0.03,58.0
