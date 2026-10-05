@@ -16,6 +16,7 @@
 `splits_v2.csv`, `registry_v2.csv`, and `class_names_v2.json` live at the **repo root** — these define the finalized dataset (train/val/test split, object ID to name mapping, and class label order) and must be used as is. If you're re running the notebook, update the file paths in **Cell 1** to point to wherever you've stored these three files locally/on Drive.
 
 The datasets are **not** in this repo, because of their size. They live in the group's Google Drive folder (see below).
+
 ---
 
 ## Quick Summary of Results (validation set, `dataset_v2`)
