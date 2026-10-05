@@ -1,7 +1,7 @@
 # Multi-Class-Object-Image-Classification
-*CNN classifier trained to identify objects from images.*
+*CNN classifier trained to identify objects from images - This project compares custom CNNs trained from scratch to identify which of 73 class-collected objects appears in an image. A 74th class, no_object, is built from empty background photos. Everything runs in one Colab notebook, from raw data to evaluation.*
 
-This project compares custom CNNs trained from scratch to identify which of 73 class-collected objects appears in an image. A 74th class, no_object, is built from empty background photos. Everything runs in one Colab notebook, from raw data to evaluation.
+
 ---
 
 ## Repository Contents
