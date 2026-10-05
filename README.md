@@ -13,7 +13,8 @@
 | `Images/` | `confusion_cnn_4blocks_v2.png` (test-set confusion matrix) and `unseen_cnn_4blocks_v2.png` (predictions on held-out "unseen environment" images) |
 | `Results/` | `results_v2.csv` (metrics per model), `eval_v2.csv` (final test evaluation), `per_class_cnn_4blocks_v2.csv` (per-class precision/recall/F1) |
 
-`splits_v2.csv`, `registry_v2.csv`, and `class_names_v2.json` live at the **repo root** — these define the finalized dataset (train/val/test split, object ID → name mapping, and class label order) and must be used as-is. If you're re-running the notebook, update the file paths in **Cell 1** to point to wherever you've stored these three files locally/on Drive.
+`splits_v2.csv`, `registry_v2.csv`, and `class_names_v2.json` live at the **repo root** — these define the finalized dataset (train/val/test split, object ID to name mapping, and class label order) and must be used as is. If you're re running the notebook, update the file paths in **Cell 1** to point to wherever you've stored these three files locally/on Drive.
+
 ---
 
 ## Quick Summary of Results
